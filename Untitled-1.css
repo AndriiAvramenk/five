@@ -228,6 +228,7 @@ ul>li:last-child{
 .people {
     display: flex;
     justify-content: space-between;
+    text-align: center;
     padding-left: 200px;
     padding-right: 200px;
 }
@@ -237,6 +238,7 @@ ul>li:last-child{
     height: 368px;
     background-color: #ffffff;
     border-radius: 5px;
+    margin-right: 30px
 }
 
 
